@@ -1,0 +1,14 @@
+{
+  "Name": "Xaou_ItemSpawner_Standalone",
+  "DisplayName": "เสกไอเทม",
+  "GameVersion": 1.268,
+  "Version": 1.0,
+  "Desc": "ม็อดเสกไอเทมแบบแยก พร้อมหมวดหมู่ รูปไอเทม ค้นหาอัตโนมัติ และเลือกจำนวน",
+  "Author": "xaou",
+  "UIPackage": "UI/XaouUI",
+  "ID": "970101315",
+  "Tags": ["Item", "Spawner", "Function", "Usability", "Mobile"],
+  "IncreasedDesc": "",
+  "IsInsideCreat": true,
+  "Previews": []
+}
